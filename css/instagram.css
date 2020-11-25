@@ -1,0 +1,142 @@
+@charset "utf-8";
+*{
+	direction: ltr;
+}
+a{
+	text-decoration: none;
+}
+#sectionright{
+	margin-left: 5%;
+	display: inline-block;
+	width: 55%;
+	float: right;
+	
+}
+#balarst{height: 400px;
+	width: 475px;
+	
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 350px;
+	border: 2px inset #646363;
+}
+.username{
+	height: 40px;
+	width: 310px;
+	margin-top: 2px;
+		
+}
+#pass{margin-top: 5px;}
+#login,#singupp{
+	margin-top: 8px;
+
+background-color: #32029E;}
+
+#forget{
+	font-size: 12px;
+}
+/*ta inja balast------------------------------*/
+#paiin{
+	height: 50px;
+	width: 400;
+	padding-top: 30px;
+	margin-right: 350px;
+	margin-top: 10px;
+	border: 2px inset #646363;
+	text-align: center;
+}
+#donthave {
+	
+}
+
+#download {
+	height: 150px;
+	text-align: center;
+	margin-right: 350px;
+	margin-top: 10px;
+}
+
+.dl {float: left;
+	height: 80px;
+	width: 180px;
+}
+#apple{
+	margin-left: 50px;
+}
+#android{
+	margin-left: 10px;
+}
+#gettheapp {
+	font-size: 18px;
+}
+#sectionleft{text-align: center;
+	float: right;
+	height:725px;
+	width:40%;
+	
+	display: inline-block;
+	
+}
+#phone{height: 640px;
+	margin-top: 40px;
+}
+footer{
+	margin-top: 50px;
+}
+li{margin-left: 10px;
+	list-style-type: none;
+	float: left;
+}
+#fornav{margin-top: 10px;
+	width: 50%;
+	float:left;
+	height: 100px;
+		
+	
+}
+#hoghogh {
+	text-align: center;
+	margin-top: 10px;
+	height: 100px;
+	width: 50%;
+		float:left;
+	
+}
+/*____________________________singup_____________________________*/
+#bala1{
+	text-align: center;
+	margin: auto;
+	width: 25%;
+	
+	height: 600px;
+	border: gray 2px solid;
+}
+
+
+#hoshdar {
+	font-size: 22px;
+	color:gray;
+}
+.margin4px{
+	margin-top: 4px;
+}
+.font14 {
+	color: gray;
+	font-size: 14px;
+}
+#bkhshevst{
+	border: gray 2px solid;
+	padding-top: 20px;
+	text-align: center;
+	width: 25%;
+	margin: auto;
+	
+	height: 50px;
+}
+#sevom { text-align: center;
+	margin: auto;
+	height: 150px;
+	width: 32%;
+	
+	
+}
